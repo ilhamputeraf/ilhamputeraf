@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhobHh6enVjNXVod2tvNnN5dWdnOGFjaXk0OXE5eDN4ZnBrb2JzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp" width="300"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWd1aWQyMjN6NXhiaWtpMHcwdHBpdmw3NHBoZjdvNGdwMWFmNjRqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.webp" width="500"/>
 
 # Hello, I'm Putera ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
@@ -11,7 +11,6 @@
    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="80"/>
    </a>
 
-   
 
 
 </h1>
